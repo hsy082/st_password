@@ -1,6 +1,6 @@
 {
      "password": [ 
-          "chapter1": 1,
+          { "chapter1": 1,
           "chapter2": 1,
           "chapter3": 1,
           "chapter4": 1,
@@ -20,6 +20,6 @@
           "chapter18": 1,
           "chapter19": 1,
           "chapter20": 1,
-          "chapter21": 1
+          "chapter21": 1}
      ]
 }
