@@ -1,6 +1,12 @@
 {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
- 
+      "chapter1": 1,
+      "chapter2": 1,
+      "chapter3": 1,
+      "chapter4": 1,
+      "chapter5": 1,
+      "chapter6: 1,
+      "chapter7": 1,
+      "chapter8": 1,
+      "chapter9": 1,
+      "chapter10": 1,
 }
