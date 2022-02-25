@@ -1,19 +1,4 @@
-{    "master": "khu191209",
-     "password": "1",
-     "list": [{"chapter1": 1,
-               "chapter2": 1,
-               "chapter3": 1},
-              {"chapter4": 1,
-               "chapter5": 1,
-               "chapter6": 1},
-              {"chapter1": 1,
-               "chapter2": 1,
-               "chapter3": 1},
-              {"chapter1": 1,
-               "chapter2": 1,
-               "chapter3": 1},
-              {"chapter1": 1,
-               "chapter2": 1,
-               "chapter3": 1},
-              ]
+{
+  "password": 1,
+  "master": "hello"
 }
