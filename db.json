@@ -1,4 +1,5 @@
-{ "master": "hello",
+{ 
+  "master": "hello",
   "password": 1,
   "posts": [
     {
@@ -8,10 +9,6 @@
     {
       "id": 2,
       "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
     }
   ]
 }
