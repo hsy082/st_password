@@ -1,5 +1,6 @@
-{
-     "password": [ 
+{    "master": "khu191209",
+     "password": "1",
+     "sample": [ 
           { "chapter1": 1,
           "chapter2": 1,
           "chapter3": 1,
@@ -10,16 +11,6 @@
           "chapter8": 1,
           "chapter9": 1,
           "chapter10": 1,
-          "chapter11": 1,
-          "chapter12": 1,
-          "chapter13": 1,
-          "chapter14": 1,
-          "chapter15": 1,
-          "chapter16": 1,
-          "chapter17": 1,
-          "chapter18": 1,
-          "chapter19": 1,
-          "chapter20": 1,
-          "chapter21": 1}
+          }
      ]
 }
