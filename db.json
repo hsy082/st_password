@@ -1,7 +1,5 @@
-{
-     "master": "hello",
-     "password": 1,
-     "chapter":  
+{     
+     "chapter":  [
           { 
           "chapter1": 1,
           "chapter2": 1,
@@ -21,5 +19,5 @@
           "chapter20": 1,
           "chapter21": 1
           }
-     
+     ]
 }
